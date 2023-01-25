@@ -1,0 +1,4 @@
+Basic commands of git
+1.git init
+2.git push
+3.git commit
